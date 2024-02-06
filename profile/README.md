@@ -1,6 +1,6 @@
 <div align="center">
 
-![datrycs_logo_small.png](datrycs_logo_small.png)
+![datrycs_logo_small](https://github.com/datrycs/.github/assets/6390698/63a784c2-51c5-4a08-8b4b-94a7065c5607)
 
 # datrycs
 
